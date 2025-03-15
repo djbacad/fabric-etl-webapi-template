@@ -2,11 +2,11 @@
 ***
 
 ### Overview
-This is a template project demonstrating **ETL pipelines** using **Microsoft Fabric** to ingest data from **Web APIs**. We showcase two ingestion methods:
+This is a template project demonstrating **ETL pipelines** using **Microsoft Fabric** to ingest data from **Web APIs**. 
 
 1. **Dataflows Gen2** – A low-code approach using Power Query to extract and transform API data.
 2. **Spark Notebooks** – A scalable method using PySpark to process and store data.
-3. 
+3. **Fabric Data Factory Pipelines**: Used to automate and schedule ETL workflows for both ingestion methods.
 
 The demo ingests:
 - **Air Quality Metrics** from OpenAQ API
@@ -35,4 +35,3 @@ This project is built on a **Fabric Free Trial** workspace.
 - **Lakehouse Storage:** Store structured data in Microsoft Fabric Lakehouse tables.
 - **Environment Management:** Use a **custom Spark environment** to install dependencies.
 ---
-
