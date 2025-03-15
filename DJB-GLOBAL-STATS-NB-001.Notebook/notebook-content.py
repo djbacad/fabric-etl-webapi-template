@@ -13,7 +13,7 @@
 # META       "default_lakehouse_workspace_id": "82bf7c21-a118-4085-8021-659a46a298a9"
 # META     },
 # META     "environment": {
-# META       "environmentId": "8d93a6fa-6a87-bda2-4a64-2929f6f51929",
+# META       "environmentId": "af7de258-f94e-a7e3-47f8-4bd5a548c5cf",
 # META       "workspaceId": "00000000-0000-0000-0000-000000000000"
 # META     }
 # META   }
