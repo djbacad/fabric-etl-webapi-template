@@ -45,9 +45,15 @@
         "type": "Office365Outlook",
         "typeProperties": {
           "inputs": {
-            "body": {},
+            "body": {
+              "To": "djbacad@gmail.com",
+              "Subject": "Pipeline Run - Success",
+              "Body": "<p>@{pipeline().Pipeline} from @{pipeline().DataFactory} successful!</p>",
+              "Sensitivity": "",
+              "Importance": "Normal"
+            },
             "method": "post",
-            "path": ""
+            "path": "/v2/Mail"
           }
         },
         "name": "Office 365 Outlook1",
