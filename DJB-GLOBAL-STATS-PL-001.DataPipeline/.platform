@@ -1,0 +1,11 @@
+{
+  "$schema": "https://developer.microsoft.com/json-schemas/fabric/gitIntegration/platformProperties/2.0.0/schema.json",
+  "metadata": {
+    "type": "DataPipeline",
+    "displayName": "DJB-GLOBAL-STATS-PL-001"
+  },
+  "config": {
+    "version": "2.0",
+    "logicalId": "693dc867-7007-a4e1-469f-c2170d9682ce"
+  }
+}
