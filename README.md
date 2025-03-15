@@ -1,5 +1,5 @@
 # Fabric ETL Web API Template
-==========================================================
+***
 
 ### Overview
 This is a template project demonstrating **ETL pipelines** using **Microsoft Fabric** to ingest data from **Web APIs**. We showcase two ingestion methods:
