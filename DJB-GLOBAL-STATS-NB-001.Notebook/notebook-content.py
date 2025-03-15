@@ -25,17 +25,6 @@
 
 # CELL ********************
 
-%pip install dotenv
-
-# METADATA ********************
-
-# META {
-# META   "language": "python",
-# META   "language_group": "synapse_pyspark"
-# META }
-
-# CELL ********************
-
 from dotenv import load_dotenv
 import requests
 import json
